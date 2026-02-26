@@ -1,5 +1,5 @@
 # EX 1 You’re creating a health monitoring device which stores several sensor readings in an array. To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
-## DATE:  19-02-2026
+## DATE:  26-02-2026
 ## AIM:
 To write a JAVA program To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
 
@@ -28,8 +28,8 @@ To write a JAVA program To determine the minimum value (e.g., lowest heartbeat),
 ``` JAVA
 /*
 Program To determine the minimum value (e.g., lowest heartbeat), implement a recursive method.
-Developed by: DILLI PRATHAP D
-RegisterNumber:  212224110014
+Developed by: KARTHIK SARAVANAN B
+RegisterNumber:  212224230118
 */
 
 import java.util.Scanner;
